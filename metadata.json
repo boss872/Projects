@@ -1,0 +1,6 @@
+{
+  "name": "I See You",
+  "description": "Find and book nearby ICU beds in medical emergencies across India. Ssession-aware AI Assistant guides patients through critical hospital bed availability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
